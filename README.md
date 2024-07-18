@@ -2,9 +2,9 @@
 <p align=center>  <strong> Hello here 👋 </strong> <p>
 
 <p align=center>  
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Je+suis+un+d%C3%A9veloppeur+passionn%C3%A9+d'innovation.;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis." alt="Typing SVG" /></a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Je+suis+un+d%C3%A9veloppeur+passionn%C3%A9+d'innovation.;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis." alt="Typing SVG" /></a>
+
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
