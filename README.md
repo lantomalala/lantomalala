@@ -44,3 +44,8 @@ I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion
 - 🐧 I use **Windows** distro based as my operating system
 <td>
 
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/RajaRakoto)
+</td>
+</table>
+</div>
+
