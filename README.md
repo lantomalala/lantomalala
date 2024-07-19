@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Je+suis+un+d%C3%A9veloppeur+passionn%C3%A9+d'innovation.;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis." alt="Typing SVG" /></a>
 </p>
 
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gaetan1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
@@ -34,6 +33,7 @@
 <h3>
 
 I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion into developing `open-source` tools that streamline developer productivity ... 💥
+
 </h3>
 <table>
 <td>
@@ -42,10 +42,11 @@ I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion
 - 💻 I’m currently working on **JavaScript - React.js/Next.js - Node.js/express.js - Pocketbase**
 - 🤔 I’m interested in **Python**
 - 🐧 I use **Windows** distro based as my operating system
+</td>
 <td>
 
 [![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/RajaRakoto)
+
 </td>
 </table>
 </div>
-
