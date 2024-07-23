@@ -45,7 +45,7 @@ I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion
 </td>
 <td>
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=lantomalala&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/RajaRakoto)
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=lantomalala&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/lantomalala)
 
 </td>
 </table>
